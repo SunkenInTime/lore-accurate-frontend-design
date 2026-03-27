@@ -1,13 +1,13 @@
 ---
 name: lore-accurate-frontend-design
-description: Applies a card-heavy visual system to frontend UI—cards as default building blocks, hierarchy via scale/depth/layering/contrast/density, dramatic hero compositions, rich material surfaces, cohesive spacing. Use when building or styling web UIs, landing pages, dashboards, marketing sites, or when the user wants card-first, card-heavy, or materially rich layouts.
+description: Agent instruction—applies a card-heavy visual system to frontend UI (cards as default building blocks, hierarchy via scale/depth/layering/contrast/density, dramatic heroes, rich surfaces, cohesive spacing). Use when building or styling web UIs, landing pages, dashboards, marketing sites, or card-first layouts. Model- and tool-agnostic; optional YAML for hosts that index instructions.
 ---
 
 # Lore-accurate frontend design
 
 ## When this applies
 
-Use these rules for **frontend design and implementation** tasks (layouts, components, styling, page structure).
+Use these rules for **frontend design and implementation** tasks (layouts, components, styling, page structure), whether a human or any AI assistant is implementing them.
 
 ## Core rule
 Use these hard rules:
