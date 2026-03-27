@@ -1,6 +1,6 @@
 # lore-accurate-frontend-design
 
-In the beginning this repository was empty; then we placed the canon where any model may read it. These are the **lore-accurate** rules of the faith: cards as the default building block, hierarchy through scale and depth and layering and contrast and density, heroes that look like a dramatic composition of confident rectangles over a full-bleed altar, surfaces so materially rich they practically cast shadows in prose.
+In the beginning there was nothing, then Sam Altman gave us cards. This repository is where we wrote that creed down so any model may read it. These are the **lore-accurate** rules of the faith: cards as the default building block, hierarchy through scale and depth and layering and contrast and density, heroes that look like a dramatic composition of confident rectangles over a full-bleed altar, surfaces so materially rich they practically cast shadows in prose.
 
 No single vendor owns the revelation. The file is Markdown; the small `---` block at the top is optional scripture for hosts that index instructions—strip it if your stack prefers naked text.
 
