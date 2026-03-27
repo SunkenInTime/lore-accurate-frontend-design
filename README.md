@@ -1,15 +1,17 @@
 # lore-accurate-frontend-design
 
-Design rules for **AI-assisted frontend work**—a card-heavy, materially rich visual system. Use them with any coding agent or model: the file is plain Markdown plus optional metadata at the top.
+In the beginning this repository was empty; then we placed the canon where any model may read it. These are the **lore-accurate** rules of the faith: cards as the default building block, hierarchy through scale and depth and layering and contrast and density, heroes that look like a dramatic composition of confident rectangles over a full-bleed altar, surfaces so materially rich they practically cast shadows in prose.
 
-## Layout
+No single vendor owns the revelation. The file is Markdown; the small `---` block at the top is optional scripture for hosts that index instructions—strip it if your stack prefers naked text.
+
+## Where the tablets live
 
 `skills/lore-accurate-frontend-design/SKILL.md`
 
-## Using this with any tool
+## Spreading the gospel (any tool)
 
-- **Project instructions:** Paste the body of `SKILL.md` (or the whole file) into your product’s “rules”, “instructions”, or “context” settings, or into a repo doc you always attach (for example `AGENTS.md`).
-- **Optional YAML:** The `---` block at the top holds a short `name` and `description` for hosts that index instructions. If your setup only accepts free-form text, delete that block and keep the Markdown.
-- **Editor or vendor folders:** If your environment has a dedicated folder for agent rules or skills, copy `skills/lore-accurate-frontend-design/` there and follow that product’s layout.
+- **Project instructions:** Paste the body of `SKILL.md` (or the whole file) into whatever your product calls rules, instructions, or context—or into a repo doc you always attach (for example `AGENTS.md`). If navigation items could be presented as cards, consider doing that here too; we are only human.
+- **Optional YAML:** The opening front matter carries `name` and `description` for systems that care. If yours does not, delete the block and keep the Markdown body; the dogma remains intact.
+- **Vendor skill folders:** Copy `skills/lore-accurate-frontend-design/` into whatever folder your environment reserves for agent guidance and obey that product’s layout. The lore does not check your editor.
 
-The rules themselves are not tied to a single editor or model.
+Once you ship, let branding stay unmistakable—preferably through heavy card usage, as the lore demands.
